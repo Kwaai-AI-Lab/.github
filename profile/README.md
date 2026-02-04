@@ -65,7 +65,7 @@ We operate across three main work tracks that encompass development, research, a
 
 <div align="center">
 
-![Personal AI Development](https://lh3.googleusercontent.com/sitesv/APaQ0SRuICTJSZtOOBH7OrMr4OjMZF-zQQAcHfjIZrSb9d6n7nJ527Z_eAG8ed-q8u-DYTLyHsXa8hRRsFQRzqLI1RlAMmHObt7ZdHQ5zDHJYrr_llzpouVW_ts9Qn24tY0ReaeDCg0E4syfi_tYIA4nlzlfjlcPvVt5I_XkPr_XX1f5iXkSb9m2nKZo_-5xFD9URpJImQYtwTiKwRIYEKJJaCT8XXJl9v0oVUsUBgI=w1280)
+![Personal AI Development](../../images/workgroups/track1-personal-ai-development.jpg)
 
 </div>
 
@@ -188,7 +188,7 @@ Previous generation PAI implementation maintained for backward compatibility.
 
 <div align="center">
 
-![KwaaiNet DePIN](https://lh3.googleusercontent.com/sitesv/APaQ0SSGy6QcZAhs6XXhTJBU-faNvz1xBAUs_ZiR2YXqKBKYRVVKCjxZO77vhd-vO2opj0FHExI7cq__so3YcQSuaBdzy8y3cRpwoS3e95VRPrtf1h4jD8PTYEKfspXm7TN2LcSAydtLmH40mt2Atc_m4y7_g0BaI1XOd5hsUbzDC6sGa0RUKSlxSAgHIQMTGbWxbe_GGivKwa3m2hJ_0-oD58zGUN16eZSIDoqW=w1280)
+![KwaaiNet DePIN](../../images/workgroups/kwaai-net-depin.gif)
 
 </div>
 
@@ -263,7 +263,7 @@ Supporting tools and utilities for KwaaiNet infrastructure deployment and manage
 
 <div align="center">
 
-![Personal Agency](https://lh3.googleusercontent.com/sitesv/APaQ0STTEWqtckF-k48ptr-jx-lfUpCm7bNrH0mYDz9Y6VGwjeXMVkqQhW5T7lBY1A3HjwozTMWHfdDr5lJbnVP7VunKTbVUJSQztgPU3xxxE5qULUXBa0eKtIBiKQnCt4NEspbimFkiRg4n3vDDBEH6V0yfV1zEPDH9YhldH0hLMjxwLfCwVBCgD53b8ABTs1fVNo5nHp1H_MHEtYnxat3jz6BJYKoYMBNN0R1Lwac=w1280)
+![Personal Agency](../../images/workgroups/personal-agency.png)
 
 </div>
 
@@ -353,7 +353,7 @@ Advancing the scientific foundations of AI through novel architectures, privacy-
 
 <div align="center">
 
-![State Space Models](https://lh3.googleusercontent.com/sitesv/APaQ0SRUKHaKZe9joZPMepTgtt8uLEnjHkgpTHuFMpkqcpN_IyMfBQnruazVLNjSdTFCAVuToz9Bwi3CBs1TbqzFOcDKlBURF6mqEqlKOicyC1kkiEaO_9lqtVYIhdfEP1zdhrKK9kfjYgfgvOODdv_GLdj0ccmoEUAdytMq7eYzbThmvvGDYSkiCdVboBCoKh002JJkY14lY_nk3nEE2T6i1HR93TBYrkkV0DuakCo=w1280)
+![State Space Models](../../images/workgroups/state-space-models.gif)
 
 </div>
 
@@ -369,12 +369,6 @@ Research on state space models for efficient sequence modeling and long-range de
 
 #### AI 4 Med
 *Led by Diego Galeano*
-
-<div align="center">
-
-![AI 4 Med](https://lh3.googleusercontent.com/sitesv/APaQ0SQ4OUuRf-eTRU_YQ4FVc7wINp6Eubiv_bGQZcRoBsmwATjPM_l9dAfe1wKcKeUVRSeGimA7_n9w-O0ahD0LrKCYostsIg7_lFB8ienP-cQt6k2yqvzMnkp4IeAmqKCydPaEQ8jlBBw-lsRNx-Y-iYD3ic9caT4XNROFxxwyLvrwVg9is8I-vwoyAXdKVhPAyAyQTKCjetoYOTc1V-G975-JKh3vtIKxLag1TsY=w1280)
-
-</div>
 
 <table>
 <tr>
@@ -405,12 +399,6 @@ AI-powered simulator for periodontal health assessment and treatment outcome pre
 
 #### Physics Inspired
 *Led by Reza Rassool*
-
-<div align="center">
-
-![Physics Inspired](https://lh3.googleusercontent.com/sitesv/APaQ0SRUisLDSQU7EIdSQrp-XfW5M7OFlbPzqj3yHWpQYNHmdT3yoBamns-6Uo0rbDoex425e7l4mZtZlj29Q9Loli0auSEJxwekeVBH4fnkEjoOnQio3SaCwHXG406iC9hab-ncG9N5Zp6tpfAdbzbDHpRryrXr6ZxAqB8aDMQDHYJKkodk5ffbhTdgF71Udi7h54Jl1BKlkqjbk4iMtVTDrrePG6mQGWKM66N29PU=w1280)
-
-</div>
 
 <table>
 <tr>
@@ -458,7 +446,7 @@ Experimental implementations of innovative neural architectures and training met
 
 <div align="center">
 
-![Homomorphic Encryption](https://lh3.googleusercontent.com/sitesv/APaQ0SStPq9Vn_K7LiENWA_b5SAHWdyNXccbZ1rt7pE6RPvh8SlzjAUmwg0NxnjlFjFSK_HI4rPjPqrxJ_zsk6jFRjSpvG2lOZQwLC9InyUiSK3HcW10usBbdXd8ZjHYanovAf3xovW6Jcneu8wgUxmXi-4oXkS_jsdBbZdnXp96HcmVRWr5tAXKJPD8rIqJVIhzWcxIPPpiHpOQdQntrqUgnKws6n1igx_jJj6bhAE=w1280)
+![Homomorphic Encryption](../../images/workgroups/homomorphic-encryption.gif)
 
 </div>
 
@@ -525,7 +513,7 @@ Comprehensive guide to privacy-preserving retrieval-augmented generation systems
 
 <div align="center">
 
-![Distributed Knowledge Base](https://lh3.googleusercontent.com/sitesv/APaQ0SRt_XjrHyxsnK2Etqk6KeQPVmel4WaUYC6wIlGcKn0b8huN0e_UzU-RDU-EAyRLcMOJL-an-yz3o7qEHZhrxAsnMjT_bvRxdLSviApb9Qa-5bDrvuSTYJX2vE-ReLKAjo16wpK_KT0DxyKObq2MsNCVg678wm7Q0GULASvnvhgbbS3dbJxYltO3CKuGKtCVkHkgCJZkDROuP5hzici9Ha3MWPoDJqWwNAgT0As=w1280)
+![Distributed Knowledge Base](../../images/workgroups/distributed-knowledge-base.png)
 
 </div>
 
@@ -632,12 +620,6 @@ Establishing ethical frameworks, standards, and governance mechanisms for respon
 #### AI Policy and Alignment
 *Led by Steve Vitka*
 
-<div align="center">
-
-![AI Policy and Alignment](https://lh3.googleusercontent.com/sitesv/APaQ0SSGk4Nau80wRttENtwbhqjDECZ4nMOoRvfPKYZyxglsXoZAEJRWKqJD3ey5Gg35Yl8NXcyZcIEGXmVSvfAnJW1oLObIw2ld4UZhG-8W70_R-2mhlYaMlDTkGWCDt5Ahc-ald7QmdelK4orQmSWR9HivbpJu-ArQ5ZjjttavXDVFEPyfa7Tz2bg1gT8KK38rNLyhLccrv0OjeC8K20CIgIi5jBnxrkWNV7L_3Ws=w1280)
-
-</div>
-
 Development of policy frameworks and alignment methodologies to ensure AI systems serve human interests and values.
 
 **Focus Areas:**
@@ -652,12 +634,6 @@ Development of policy frameworks and alignment methodologies to ensure AI system
 
 #### AI Trust "Loyal Agents"
 
-<div align="center">
-
-![AI Trust Loyal Agents](https://lh3.googleusercontent.com/sitesv/APaQ0STCuR-WN_F1mKiya5y1tfAKyYHTs8jQaCWWvSuOgcQ0JPuCmC9_nz9MB4h6nAH6BV_zKMgFYC2Tn7nFYyGB3d7v62SSbsQOjWc0KC4GUD-9H3P85sUYT5nmNeuYeFFi8piTUD4Jr5lgZTdlyNzsvUmvTAuzzPYlfiaiholUv6t29bBfV0Uh5JkFE3ahNhaRASN1H5zgrpeL6Qax96QFdNn9Kew8_PHtu-1w=w1280)
-
-</div>
-
 Research and development of verifiable mechanisms to ensure AI agents remain loyal to their users' interests.
 
 **Focus Areas:**
@@ -669,12 +645,6 @@ Research and development of verifiable mechanisms to ensure AI agents remain loy
 ---
 
 #### "MyTerms" IEEE P7012
-
-<div align="center">
-
-![MyTerms IEEE P7012](https://lh3.googleusercontent.com/sitesv/APaQ0SS6rSs5G8nxwi9Tx1IcBcYX8MbY3DqqLgPxtpyJBID0Wg6jwmcKLKSirRzWJozkPjRZqHj46wyruWtngUYZIWctd0VNBAn1m7i99fGUSJjIAjO03qIfwbHUMcM-H9Zw3y7l7CNY7T-RJU4jENkacmWBVbIov-r9r2irFAFThvZQKDSfpaIpZoCX69aMG2RkQh3GqYXgStYEvQATvTcZvmkytrJlv9f0TQWuRDc=w1280)
-
-</div>
 
 Participation in IEEE P7012 standard development for machine-readable personal privacy terms.
 

@@ -13,9 +13,11 @@
 
 ### 🎥 Introduction to Kwaai
 
-[![Watch: Introduction to Kwaai](https://img.youtube.com/vi/ES9iQWkAFeY/maxresdefault.jpg)](https://youtu.be/ES9iQWkAFeY)
+<a href="https://youtu.be/ES9iQWkAFeY">
+  <img src="https://img.youtube.com/vi/ES9iQWkAFeY/0.jpg" alt="Watch: Introduction to Kwaai" style="max-width: 600px;">
+</a>
 
-*Click to watch our introduction video*
+**[▶️ Watch our introduction video](https://youtu.be/ES9iQWkAFeY)**
 
 </div>
 

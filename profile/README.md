@@ -65,7 +65,7 @@ We operate across three main work tracks that encompass development, research, a
 
 <div align="center">
 
-![Personal AI Development](../../images/workgroups/track1-personal-ai-development.jpg)
+![Personal AI Development](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/track1-personal-ai-development.jpg)
 
 </div>
 
@@ -188,7 +188,7 @@ Previous generation PAI implementation maintained for backward compatibility.
 
 <div align="center">
 
-![KwaaiNet DePIN](../../images/workgroups/kwaai-net-depin.gif)
+![KwaaiNet DePIN](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/kwaai-net-depin.gif)
 
 </div>
 
@@ -263,7 +263,7 @@ Supporting tools and utilities for KwaaiNet infrastructure deployment and manage
 
 <div align="center">
 
-![Personal Agency](../../images/workgroups/personal-agency.png)
+![Personal Agency](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/personal-agency.png)
 
 </div>
 
@@ -353,7 +353,7 @@ Advancing the scientific foundations of AI through novel architectures, privacy-
 
 <div align="center">
 
-![State Space Models](../../images/workgroups/state-space-models.gif)
+![State Space Models](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/state-space-models.gif)
 
 </div>
 
@@ -446,7 +446,7 @@ Experimental implementations of innovative neural architectures and training met
 
 <div align="center">
 
-![Homomorphic Encryption](../../images/workgroups/homomorphic-encryption.gif)
+![Homomorphic Encryption](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/homomorphic-encryption.gif)
 
 </div>
 
@@ -513,7 +513,7 @@ Comprehensive guide to privacy-preserving retrieval-augmented generation systems
 
 <div align="center">
 
-![Distributed Knowledge Base](../../images/workgroups/distributed-knowledge-base.png)
+![Distributed Knowledge Base](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/distributed-knowledge-base.png)
 
 </div>
 

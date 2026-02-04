@@ -64,9 +64,7 @@ We operate across three main work tracks that encompass development, research, a
 ### 🚀 Track 1: Personal AI Development
 
 <div align="center">
-
-![Personal AI Development](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/track1-personal-ai-development.jpg)
-
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/track1-personal-ai-development.jpg" alt="Personal AI Development" width="600">
 </div>
 
 Building the infrastructure, applications, and experiences for a free Personal AI ecosystem.
@@ -187,9 +185,7 @@ Previous generation PAI implementation maintained for backward compatibility.
 *Led by Brian Ragazzi*
 
 <div align="center">
-
-![KwaaiNet DePIN](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/kwaai-net-depin.gif)
-
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/kwaai-net-depin.gif" alt="KwaaiNet DePIN" width="600">
 </div>
 
 <table>
@@ -262,9 +258,7 @@ Supporting tools and utilities for KwaaiNet infrastructure deployment and manage
 *Led by Steve Vitka*
 
 <div align="center">
-
-![Personal Agency](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/personal-agency.png)
-
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/personal-agency.png" alt="Personal Agency" width="600">
 </div>
 
 The Personal Agency workgroup focuses on user empowerment through the proprietary **Lucid platform**, which enables users to maintain control over their AI agents and data. This work is primarily conducted outside of public GitHub repositories.
@@ -352,9 +346,7 @@ Advancing the scientific foundations of AI through novel architectures, privacy-
 *Led by Daryle Serrant*
 
 <div align="center">
-
-![State Space Models](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/state-space-models.gif)
-
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/state-space-models.gif" alt="State Space Models" width="600">
 </div>
 
 Research on state space models for efficient sequence modeling and long-range dependencies. Primary research outputs are published through academic channels and conferences.
@@ -369,6 +361,10 @@ Research on state space models for efficient sequence modeling and long-range de
 
 #### AI 4 Med
 *Led by Diego Galeano*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/ai-4-med.png" alt="AI 4 Med" width="600">
+</div>
 
 <table>
 <tr>
@@ -445,9 +441,7 @@ Experimental implementations of innovative neural architectures and training met
 *Led by Sulimon Sattari*
 
 <div align="center">
-
-![Homomorphic Encryption](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/homomorphic-encryption.gif)
-
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/homomorphic-encryption.gif" alt="Homomorphic Encryption" width="600">
 </div>
 
 <table>
@@ -512,9 +506,7 @@ Comprehensive guide to privacy-preserving retrieval-augmented generation systems
 #### Distributed Knowledge Base & Beyond Graph RAG
 
 <div align="center">
-
-![Distributed Knowledge Base](https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/distributed-knowledge-base.png)
-
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/distributed-knowledge-base.gif" alt="Distributed Knowledge Base" width="600">
 </div>
 
 <table>

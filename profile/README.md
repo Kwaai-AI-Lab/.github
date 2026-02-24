@@ -81,7 +81,7 @@ Building the infrastructure, applications, and experiences for a free Personal A
 ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 ![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
 
-[Repository](https://github.com/Kwaai-AI-Lab/PAIAssistant) | [Demo](#)
+[Repository](https://github.com/Kwaai-AI-Lab/PAIAssistant)
 
 Demonstration application showcasing PAI capabilities in email management and automation.
 
@@ -93,6 +93,9 @@ Demonstration application showcasing PAI capabilities in email management and au
 
 </td>
 <td width="50%">
+
+<img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/PAIAssistant/main/doc/DemoPA.gif" alt="PAIAssistant demo" width="100%">
+
 </td>
 </tr>
 </table>

@@ -76,47 +76,9 @@ Building the infrastructure, applications, and experiences for a free Personal A
 <tr>
 <td width="50%">
 
-**pAI-OS** - Personal AI Operating System
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)
-![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
-
-[Repository](https://github.com/Kwaai-AI-Lab/assistant) | [Documentation](#)
-
-Core operating system for personal AI agents, providing the foundation for autonomous AI assistance.
-
-**Features:**
-- Agent lifecycle management
-- Multi-modal interaction support
-- Privacy-preserving architecture
-- Extensible plugin system
-
-</td>
-<td width="50%">
-
-**kwaai-pai** - PAI Assistant Implementation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)
-![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
-
-[Repository](https://github.com/Kwaai-AI-Lab/kwaai-pai) | [Documentation](#)
-
-Production implementation of the Personal AI Assistant with advanced reasoning capabilities.
-
-**Features:**
-- Natural language understanding
-- Task automation
-- Context-aware responses
-- Integration with KwaaiNet
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **PAIAssistant** - Email Assistant Demo
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Demo-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 ![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
 
 [Repository](https://github.com/Kwaai-AI-Lab/PAIAssistant) | [Demo](#)
@@ -131,50 +93,75 @@ Demonstration application showcasing PAI capabilities in email management and au
 
 </td>
 <td width="50%">
+</td>
+</tr>
+</table>
 
-**pAI-EDUAssistant** - Education Beta
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square)
-![Private](https://img.shields.io/badge/Visibility-Private-red?style=flat-square)
+##### Dormant Projects
 
-Educational AI assistant focused on personalized learning experiences.
+<table>
+<tr>
+<td width="50%">
 
-**Features:**
-- Adaptive learning paths
-- Student progress tracking
-- Interactive tutoring
-- Assessment generation
+**pAI-OS** - Personal AI Operating System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Dormant-lightgrey?style=flat-square)
+![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
+
+[Repository](https://github.com/Kwaai-AI-Lab/assistant) | [Documentation](#)
+
+Core operating system for personal AI agents, providing the foundation for autonomous AI assistance.
+
+</td>
+<td width="50%">
+
+**kwaai-pai** - PAI Assistant Implementation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Dormant-lightgrey?style=flat-square)
+![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
+
+[Repository](https://github.com/Kwaai-AI-Lab/kwaai-pai) | [Documentation](#)
+
+Production implementation of the Personal AI Assistant with advanced reasoning capabilities.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**kwaai-pai-assistant** - PAI Assistant Service
-![Mixed](https://img.shields.io/badge/Mixed-Languages-grey?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)
+**pAI-EDUAssistant** - Education Beta
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Dormant-lightgrey?style=flat-square)
 ![Private](https://img.shields.io/badge/Visibility-Private-red?style=flat-square)
 
-Backend service infrastructure for PAI Assistant deployment and orchestration.
-
-**Features:**
-- Microservices architecture
-- Load balancing
-- Session management
-- API gateway
+Educational AI assistant focused on personalized learning experiences.
 
 </td>
 <td width="50%">
 
+**kwaai-pai-assistant** - PAI Assistant Service
+![Mixed](https://img.shields.io/badge/Mixed-Languages-grey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Dormant-lightgrey?style=flat-square)
+![Private](https://img.shields.io/badge/Visibility-Private-red?style=flat-square)
+
+Backend service infrastructure for PAI Assistant deployment and orchestration.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **assistant-temp** - Legacy Version
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Legacy-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Dormant-lightgrey?style=flat-square)
 ![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
 
 [Repository](https://github.com/Kwaai-AI-Lab/assistant-temp)
 
-Previous generation PAI implementation maintained for backward compatibility.
+Previous generation PAI implementation.
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -245,6 +232,28 @@ Supporting tools and utilities for KwaaiNet infrastructure deployment and manage
 - Network diagnostics
 - Deployment automation
 - Configuration management
+
+</td>
+<td width="50%">
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**PHE** — Privacy-Homomorphic Encryption
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)
+![Private](https://img.shields.io/badge/Visibility-Private-red?style=flat-square)
+
+*Private repository — Kwaai members can [request access on Slack](https://kwaaiailab.slack.com)*
+
+High-performance homomorphic encryption library powering privacy-preserving computation on the KwaaiNet DePIN. Enables encrypted AI inference without exposing raw model inputs or outputs.
+
+**Capabilities:**
+- Lattice-based homomorphic encryption
+- Encrypted model inference
+- Privacy-preserving DHT operations
+- GPU-accelerated computation
 
 </td>
 <td width="50%">
@@ -396,44 +405,7 @@ AI-powered simulator for periodontal health assessment and treatment outcome pre
 #### Physics Inspired
 *Led by Reza Rassool*
 
-<table>
-<tr>
-<td width="50%">
-
-**Fluidic_Neural_Network** - Quantum-Fluid Dynamics
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Research-purple?style=flat-square)
-![Private](https://img.shields.io/badge/Visibility-Private-red?style=flat-square)
-
-Novel neural network architecture inspired by quantum fluid dynamics and wave mechanics.
-
-**Features:**
-- Continuous state representation
-- Energy-based learning
-- Non-local interactions
-- Physical interpretability
-
-</td>
-<td width="50%">
-
-**kwaai-innovative-architectures** - Novel Architectures
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Research-purple?style=flat-square)
-![Public](https://img.shields.io/badge/Visibility-Public-blue?style=flat-square)
-
-[Repository](https://github.com/Kwaai-AI-Lab/kwaai-innovative-architectures) | [Notebooks](#)
-
-Experimental implementations of innovative neural architectures and training methodologies.
-
-**Research Areas:**
-- Physics-informed neural networks
-- Geometric deep learning
-- Equivariant architectures
-- Novel activation functions
-
-</td>
-</tr>
-</table>
+Research into novel neural architectures derived from first principles in quantum mechanics and fluid dynamics. Work spans continuous state representations, energy-based learning, non-local interactions, and equivariant geometric architectures. Outputs are published through academic channels; implementation work is available in [kwaai-innovative-architectures](https://github.com/Kwaai-AI-Lab/kwaai-innovative-architectures).
 
 ---
 

@@ -243,20 +243,21 @@ Supporting tools and utilities for KwaaiNet infrastructure deployment and manage
 <tr>
 <td width="50%">
 
-**PHE** — Privacy-Homomorphic Encryption
+**VPK — Virtual Private Knowledge**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square)
 ![Private](https://img.shields.io/badge/Visibility-Private-red?style=flat-square)
 
 *Private repository — Kwaai members can [request access on Slack](https://kwaaiailab.slack.com)*
 
-High-performance homomorphic encryption library powering privacy-preserving computation on the KwaaiNet DePIN. Enables encrypted AI inference without exposing raw model inputs or outputs.
+Research system enabling **real semantic search on encrypted data** using Partial Homomorphic Encryption (PHE) for privacy-preserving RAG. Encrypted embedding vectors are split across N untrusted shards — each shard sees only 1/N of the corpus and 1/N of queries. Exposes an MCP server for direct integration with Claude and LLM agents. Demonstrated on 1,000 encrypted medical documents with 95–99% ranking preservation. Research published at MPI Workshop, Claremont Graduate University (2025).
 
 **Capabilities:**
-- Lattice-based homomorphic encryption
-- Encrypted model inference
-- Privacy-preserving DHT operations
-- GPU-accelerated computation
+- Five encryption strategies (scrambling, noise, ROME, combined)
+- Multi-shard fan-out with parallel query dispatch
+- MCP server (`search_knowledge_base`, `upload_document`, `get_audit_log`)
+- ~25 µs encryption overhead per 384-dim vector
 
 </td>
 <td width="50%">

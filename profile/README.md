@@ -172,7 +172,7 @@ Previous generation PAI implementation.
 ---
 
 #### KwaaiNet DePIN Workgroup
-*Led by Brian Ragazzi*
+*Led by Reza Rassool*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/kwaai-net-depin.gif" alt="KwaaiNet DePIN" width="600">

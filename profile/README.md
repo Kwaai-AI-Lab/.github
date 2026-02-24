@@ -409,7 +409,7 @@ Research into novel neural architectures derived from first principles in quantu
 
 *Private repository — Kwaai members can [request access on Slack](https://kwaaiailab.slack.com)*
 
-Research system enabling **real semantic search on encrypted data** using Partial Homomorphic Encryption (PHE) for privacy-preserving RAG. Encrypted embedding vectors are split across N untrusted shards — each shard sees only 1/N of the corpus and 1/N of queries. Exposes an MCP server for direct integration with Claude and LLM agents. Demonstrated on 1,000 encrypted medical documents with 95–99% ranking preservation. Research published at MPI Workshop, Claremont Graduate University (2025).
+Research system enabling **confidential vector search for privacy-preserving RAG applications** using Partial Homomorphic Encryption (PHE). Encrypted embedding vectors are split across N untrusted shards — each shard sees only 1/N of the corpus and 1/N of queries. Exposes an MCP server for direct integration with Claude and LLM agents. Demonstrated on 1,000 encrypted medical documents with 95–99% ranking preservation. Research published at MPI Workshop, Claremont Graduate University (2025).
 
 **Capabilities:**
 - Five encryption strategies (scrambling, noise, ROME, combined)

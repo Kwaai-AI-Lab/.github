@@ -32,6 +32,7 @@
   - [Policy & Governance Track](#-track-3-policy--governance)
 - [Supporting Infrastructure](#-supporting-infrastructure)
 - [Quick Start Guides](#-quick-start-guides)
+- [Network Roadmap](#-network-roadmap)
 - [Community](#-community)
 - [Publications & Research](#-publications--research)
 - [Documentation](#-documentation)
@@ -898,6 +899,39 @@ print(response.answer)
 for chunk in client.stream("Write a report"):
     print(chunk, end="")
 ```
+
+---
+
+## 🗺 Network Roadmap
+
+### ✅ Phase 1: Architecture & Foundation
+- Native Rust CLI (`kwaainet`) with full node lifecycle management
+- Persistent node identity (Ed25519 keypair, `did:peer:` DIDs)
+- Decentralized Trust Graph (W3C Verifiable Credentials, trust scoring)
+- Full Petals/Hivemind DHT compatibility
+- OpenAI-compatible API server (`kwaainet serve`)
+- Metal GPU inference — 33+ tok/s on Apple Silicon
+- Cross-platform binaries (macOS, Linux, Windows)
+- `SummitAttendeeVC` — live credential issuance at Kwaai Personal AI Summits
+
+### Phase 2: Platform Deployment
+- 1K+ nodes
+- Browser SDK — one-line website integration
+- Mobile foundation — iOS/Android native apps
+- Enterprise compliance tools (GDPR/HIPAA)
+- Optional integration framework (modular storage/identity)
+- `FiduciaryPledgeVC` + `VerifiedNodeVC` credential issuance
+
+### Phase 3: Market Expansion
+- 10K+ nodes
+- `UptimeVC` + `ThroughputVC` peer-witnessed credentials
+- Environmental tracking — carbon accountability
+- Enterprise routing (minimum trust score thresholds for HIPAA/GDPR workloads)
+
+### Phase 4: Scale
+- 100K+ nodes
+- EigenTrust propagation (Sybil-resistant endorsement-weight decay)
+- OS-level integration
 
 ---
 

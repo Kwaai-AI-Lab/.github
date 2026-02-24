@@ -743,45 +743,54 @@ Backend services and APIs for TwinTechHub platform.
 
 ### KwaaiNet - Join the Decentralized Network
 
-**Prerequisites:**
-- Rust 1.70+ and Cargo
-- Git
-- 4GB RAM minimum
-
-**Installation:**
+**Option 1 — Pre-built binary (no Rust required):**
 
 ```bash
-# Clone the repository
-git clone https://github.com/Kwaai-AI-Lab/KwaaiNet.git
-cd KwaaiNet
-
-# Build the project
-cargo build --release
-
-# Run a node
-cargo run --release -- --config config.toml
+# macOS Apple Silicon
+curl -L https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest/download/kwaainet-aarch64-apple-darwin.tar.gz \
+  | tar -xz && sudo mv kwaainet /usr/local/bin/
 ```
 
-**Basic Configuration:**
+See the [releases page](https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest) for Linux and Windows downloads.
 
-```toml
-# config.toml
-[network]
-listen_addr = "0.0.0.0:8000"
-bootstrap_peers = ["peer1.kwaai.ai:8000", "peer2.kwaai.ai:8000"]
+**Option 2 — Build from source:**
 
-[compute]
-max_workers = 4
-gpu_enabled = true
+```bash
+git clone https://github.com/Kwaai-AI-Lab/KwaaiNet.git
+cd KwaaiNet
+cargo build --release -p kwaai-cli
+# Binary at: target/release/kwaainet
+```
 
-[storage]
-data_dir = "~/.kwaai/data"
-max_size_gb = 100
+**First-time setup:**
+
+```bash
+kwaainet setup                                      # create dirs, write default config
+kwaainet config --set public_ip <YOUR_PUBLIC_IP>    # required for map visibility
+kwaainet config --set public_name "YourName@kwaai"  # shown on map.kwaai.ai
+kwaainet benchmark                                  # measure throughput, saved to cache
+```
+
+**Start your node:**
+
+```bash
+kwaainet start --daemon   # reads live network map, auto-selects best local model
+kwaainet status           # confirm it's running
+kwaainet logs --follow    # watch live output
+```
+
+> Model selection is automatic — `kwaainet` reads [map.kwaai.ai](https://map.kwaai.ai), lists your locally installed Ollama models, and picks the best match. Your node appears on the map within 30–60 seconds.
+
+**Serve the OpenAI-compatible API:**
+
+```bash
+kwaainet serve                        # starts on port 11435
+curl http://localhost:11435/v1/models  # verify
 ```
 
 **Next Steps:**
-- [Full Documentation](https://github.com/Kwaai-AI-Lab/KwaaiNet/wiki)
-- [Network Explorer](https://explorer.kwaai.ai)
+- [Full Documentation](https://github.com/Kwaai-AI-Lab/KwaaiNet#readme)
+- [Network Map](https://map.kwaai.ai)
 - [Join Community](https://kwaaiailab.slack.com)
 
 ---

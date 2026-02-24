@@ -175,7 +175,7 @@ Previous generation PAI implementation.
 *Led by Brian Ragazzi*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/.github/main/images/workgroups/kwaai-net-depin.gif" alt="KwaaiNet DePIN" width="600">
+  <img src="https://raw.githubusercontent.com/Kwaai-AI-Lab/KwaaiNet/main/docs/assets/banner.svg" alt="KwaaiNet — Sovereign AI Infrastructure" width="100%">
 </div>
 
 <table>

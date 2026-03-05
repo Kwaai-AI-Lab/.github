@@ -133,3 +133,4 @@ New to Personal AI? Start with [pai-seed](https://github.com/Kwaai-AI-Lab/pai-se
 [pai@kwaai.ai](mailto:pai@kwaai.ai)
 
 </div>
+

@@ -1,8 +1,8 @@
-# Kwaai — Personal AI Lab
+# Kwaai, Open Source Personal AI Lab
 
 <div align="center">
 
-**A non-profit building free, open Personal AI. Your data. Your agent. Your rules.**
+**A non-profit building free, open Personal AI. Your data. Your agents. Your rules.**
 
 [![Website](https://img.shields.io/badge/Website-kwaai.ai-blue?style=flat-square)](https://www.kwaai.ai)
 [![Slack](https://img.shields.io/badge/Slack-Join_Us-4A154B?style=flat-square&logo=slack)](https://kwaaiailab.slack.com)
@@ -73,7 +73,6 @@ curl http://localhost:11435/v1/models  # verify
 |---|---|
 | **[KwaaiNet](https://github.com/Kwaai-AI-Lab/KwaaiNet)** | Core network — peer-to-peer compute, Byzantine fault tolerance, cross-platform. [Full docs](https://github.com/Kwaai-AI-Lab/KwaaiNet/wiki). |
 | **[OpenAI-Petal](https://github.com/Kwaai-AI-Lab/OpenAI-Petal)** | OpenAI API-compatible server for distributed inference via the Petals protocol. |
-| **[kwaai-net](https://github.com/Kwaai-AI-Lab/kwaai-net)** | Node monitoring, network diagnostics, deployment automation. |
 
 ---
 
@@ -133,4 +132,5 @@ New to Personal AI? Start with [pai-seed](https://github.com/Kwaai-AI-Lab/pai-se
 [pai@kwaai.ai](mailto:pai@kwaai.ai)
 
 </div>
+
 

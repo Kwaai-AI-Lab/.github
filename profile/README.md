@@ -24,30 +24,37 @@ Kwaai runs on a decentralized network of nodes contributed by people like you. E
 
 ### Quick Start
 
-**Option A — Pre-built binary (fastest):**
+**Install (macOS / Linux):**
 
 ```bash
-# macOS Apple Silicon
-curl -L https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest/download/kwaainet-aarch64-apple-darwin.tar.gz \
-  | tar -xz && sudo mv kwaainet /usr/local/bin/
+curl --proto '=https' --tlsv1.2 -LsSf \
+  https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest/download/kwaainet-installer.sh | sh
 ```
 
-See the [releases page](https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest) for Linux and Windows.
+**Install (Windows):**
 
-**Option B — Build from source:**
+```powershell
+powershell -ExecutionPolicy Bypass -c "irm https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest/download/kwaainet-installer.ps1 | iex"
+```
+
+**Install (Homebrew):**
 
 ```bash
-git clone https://github.com/Kwaai-AI-Lab/KwaaiNet.git
-cd KwaaiNet
-cargo build --release -p kwaai-cli
+brew install kwaai-ai-lab/tap/kwaainet
 ```
+
+**Install (cargo binstall):**
+
+```bash
+cargo binstall kwaainet
+```
+
+See the [releases page](https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest) for direct `.tar.xz` / `.zip` downloads and build-from-source instructions.
 
 **First-time setup:**
 
 ```bash
 kwaainet setup
-kwaainet config --set public_ip <YOUR_PUBLIC_IP>
-kwaainet config --set public_name "YourName@kwaai"
 kwaainet benchmark
 ```
 
@@ -58,7 +65,7 @@ kwaainet start --daemon
 kwaainet status
 ```
 
-Model selection is automatic — KwaaiNet reads [map.kwaai.ai](https://map.kwaai.ai), detects your local Ollama models, and picks the best match.
+Model selection is automatic — KwaaiNet reads [map.kwaai.ai](https://map.kwaai.ai), detects your local models, and picks the best match.
 
 **Serve the OpenAI-compatible API:**
 

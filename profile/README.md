@@ -27,8 +27,7 @@ Kwaai runs on a decentralized network of nodes contributed by people like you. E
 **Install (macOS / Linux):**
 
 ```bash
-curl --proto '=https' --tlsv1.2 -LsSf \
-  https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest/download/kwaainet-installer.sh | sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/Kwaai-AI-Lab/KwaaiNet/releases/latest/download/kwaainet-installer.sh | sh
 ```
 
 **Install (Windows):**
